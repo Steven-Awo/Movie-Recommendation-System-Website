@@ -1,2 +1,2 @@
-# Movie-Recommendation-System-Website
-Steven-Awo/Movie-Recommendation-System-Website
+# Movies-Recommendation-Website
+Movies-Recomendation-Website
